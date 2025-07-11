@@ -3,9 +3,9 @@
 import os
 from os import environ
 
-API_ID = int(environ.get("API_ID", "24675817"))
-API_HASH = environ.get("API_HASH", "81fa8e7935766d2585194bcd69167ae4")
-BOT_TOKEN = environ.get("7225715853:AAGJwoVPY5de4h0YBiVsNn8kXGZlPZaGa2E", "")
+API_ID = int(environ.get("API_ID", "2467"))
+API_HASH = environ.get("API_HASH", "81fa8ed2585194bcd69167ae4")
+BOT_TOKEN = environ.get("7225853:AAGJwoe4h0YBiVsNn8kXGZlPZaGa2E", "")
 OWNER = int(environ.get("OWNER", "1077356338"))
 CREDIT = environ.get("CREDIT", "HydraBot")
 #AUTH_USER = os.environ.get('AUTH_USERS', '1077356338').split(',')
